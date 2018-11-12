@@ -1,7 +1,5 @@
 package jlox;
 
-import jlox.Lox.TokenType;
-
 class Token {
 	final TokenType type;
 	final String lexeme;
